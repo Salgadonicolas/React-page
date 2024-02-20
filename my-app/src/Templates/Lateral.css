@@ -1,0 +1,20 @@
+aside.lateral{
+     background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(241,241,241,1) 0%, rgba(0,212,255,1) 57%);
+}
+
+
+.lateral2 a{
+     display: flex;
+     justify-content: center;
+     align-content: center;
+     padding: 15px;
+     font-size: 20px;
+     text-decoration: none;
+     color: rgb(4, 5, 5);
+}
+
+.lateral2 a:hover{
+     background: rgb(131,247,255);
+     background: linear-gradient(90deg, rgba(131,247,255,1) 10%, rgba(89,221,187,1) 50%, rgba(131,247,255,1) 90%);
+
+}

@@ -1,0 +1,32 @@
+
+
+header.superior {
+    grid-area: header;
+}
+
+.aside.lateral {
+    grid-area: menu;
+}
+
+.footer.footer {
+    grid-area: footer;
+}
+.span.main{
+    grid-area: content;
+}
+
+.grid {
+    display: grid ;
+    grid-template-columns: 250px;
+    grid-template-rows: 150px 1fr 50px;
+    grid-template-areas:
+        "header header"
+        "aside span"
+        "footer footer";
+    height: 100vh;
+border: 10px;
+    /*gap: 5px;*/
+    
+    padding: 5px;
+    
+}

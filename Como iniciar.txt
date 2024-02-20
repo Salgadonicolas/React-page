@@ -1,0 +1,12 @@
+- abrir visual estudio code a pasta React Page
+- ira aparecer as 2 pastas no visual studio code (back e my-app)
+
+- pasta back
+- selecionar a pasta com o botão direito no vs code e selecionar abrir no terminal
+- digitar no terminar -> npm start
+
+- pasta my-app
+- selecionar a pasta src com o botão direito no vs code e selecionar abrir no terminal
+- digitar no terminar -> npm start
+- ira abrir a pagina para visualização
+ 
