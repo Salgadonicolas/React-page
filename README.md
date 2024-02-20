@@ -12,7 +12,7 @@
 - digitar no terminar -> npm start
 - ira abrir a pagina para visualização
 
-* English *
+ *English*
 
 - open visual studio code the React Page folder
 - the 2 folders will appear in visual studio code (back and my-app)
